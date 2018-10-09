@@ -2,7 +2,7 @@
   "name": "loopback-connector-sqs",
   "description": "AWS-SQS connector for loopback-datasource-juggler",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": "Mohit Gawande",
   "license": "MIT",
   "scripts": {
